@@ -1,0 +1,10 @@
+name = "Alwism Unit Pack"
+uid = "019ba319-c1c9-7ebe-99cf-9a7794b400c7"
+version = "0.1"
+copyright = "GPL-3.0 license"
+description = "Unit Pack - by Alwism"
+author = "Alwism"
+url = "https://github.com/alwism/FAF-Alwism-Pack"
+exclusive = false
+ui_only = false
+conflicts = {}
