@@ -1,4 +1,5 @@
 {
     "files.autoSave": "afterDelay",
-    "git.autofetch": true
+    "git.autofetch": true,
+    "editor.fontFamily": "'RandyGg Nerd Font', monospace"
 }
